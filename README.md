@@ -36,6 +36,7 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199412055-fa1f658d-65f4-42c2-9c3c-78c93512e905.png)
 
 ## OUTPUT
+![SUBAHINIEXP5 2_page-0001](https://user-images.githubusercontent.com/119404951/214194726-d5d843d2-920b-4c86-952a-5b11233c2c00.jpg)
 
 
 ## RESULT:
